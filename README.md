@@ -1,2 +1,2 @@
 # LeetCode
-A few of the problems I practiced on LeetCode while practicing for competitive programming competitions.
+A few of LeetCode problems solutions I worked on while practicing for competitive programming competitions.
